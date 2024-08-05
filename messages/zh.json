@@ -1,0 +1,26 @@
+{
+  "server": {
+    "error": "错误",
+    "needAuth": "需要登录",
+    "invalidPrompt": "无效的提示",
+    "tryLater": "请稍后重试",
+    "rateLimit": "请求过于频繁，请稍后重试"
+  },
+  "home": {
+    "signin": "登录",
+    "signout": "退出登录",
+    "title": "使用AI 生成图片",
+    "description": "使用 flux schnell 快速生成图片，支持多种模式，多种风格，多种尺寸。",
+    "generate": "生成"
+  },
+  "colorSchema": {
+    "system": "跟随系统",
+    "light": "明亮模式",
+    "dark": "暗黑模式"
+  },
+  "signin": {
+    "signin": "登录",
+    "welcome": "欢迎回来",
+    "github": "使用 GitHub 登录"
+  }
+}

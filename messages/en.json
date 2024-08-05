@@ -1,0 +1,26 @@
+{
+  "server": {
+    "error": "Error",
+    "needAuth": "Need authentication",
+    "invalidPrompt": "Invalid prompt",
+    "tryLater": "Please try again later",
+    "rateLimit": "Request too frequent, please try again later"
+  },
+  "home": {
+    "signin": "Sign in",
+    "signout": "Sign out",
+    "title": "Generate images with AI",
+    "description": "Generate images quickly with flux schnell, supporting multiple modes, styles, and sizes.",
+    "generate": "Generate"
+  },
+  "colorSchema": {
+    "system": "System",
+    "light": "Light",
+    "dark": "Dark"
+  },
+  "signin": {
+    "signin": "Sign in",
+    "welcome": "Welcome back",
+    "github": "Sign in with GitHub"
+  }
+}
