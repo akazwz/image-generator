@@ -43,7 +43,7 @@ export default async function Index() {
         <nav className="flex gap-8 flex-1 items-center justify-center"></nav>
         <div className="flex items-center gap-2">
           <Link
-            href="https://github.com/akazwz"
+            href="https://github.com/akazwz/image-generator"
             target="_blank"
             className={cn(
               buttonVariants({
